@@ -42,5 +42,7 @@ O fluxo principal funciona da seguinte maneira:
 * **Banco de Dados:** MySQL (ou SQLite)
 * **Driver DB:** mysql-connector-python
 
+obs: projeito feito para treinar e academico
+
 
 
